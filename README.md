@@ -4,7 +4,11 @@
 
 # Для выполнения когда необходимо:
 Открываем проект
+
 Устанавливаем необходимую библиотеку. В терминале прописываем pip install COVID19Py
+
 Также устаналиваем библотеку requests (pip install requests)
+
 Скачиваем библиотеку TelegramBotAPI (pip install pyTelegramBotAPI)
+
 Через BotFather в Telegram создаем нового бота, получаем API ключ и вставляем этот ключ в наш код
